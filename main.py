@@ -12,3 +12,6 @@ if response.status_code == 200:
     html_content = response.text  # Get the HTML content
 else:
     print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
+
+
+# added some lines
