@@ -13,5 +13,3 @@ if response.status_code == 200:
 else:
     print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
 
-
-# added some lines
